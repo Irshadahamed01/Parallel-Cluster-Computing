@@ -132,7 +132,7 @@ int main() {
 /*
 
 
-C:\Users\rujha\Documents\Parellal Computing\Project1\x64\Debug > mpiexec - n 4 Project1.exe
+C:\Users > mpiexec - n 4 Project1.exe
 
 My Processor id is 1
 Received Data from sequence 1 is: 1 0 1 1 0 1 1
